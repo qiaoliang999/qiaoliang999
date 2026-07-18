@@ -20,7 +20,7 @@ I break APIs and web apps on purpose, then automate the checks so regressions do
 ### Featured projects
 
 **[security-qa-web-api-portfolio](https://github.com/qiaoliang999/security-qa-web-api-portfolio)**  
-Dual-mode security lab with authorization matrices, CVSS-scored findings, and CI security gates that fail builds on high-severity issues.
+Dual-mode security lab with authorization matrices, CVSS-scored findings, and CI jobs that re-run lab detection and secure-mode control checks.
 
 **[qa-automation-web-api-suite](https://github.com/qiaoliang999/qa-automation-web-api-suite)**  
 pytest + Playwright test pyramid covering UI, API, and contract tests (OpenAPI), with factories and layered CI for fast feedback.
